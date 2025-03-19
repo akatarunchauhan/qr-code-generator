@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "inquirer": "^12.5.0",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "this is a mini project, which generates a qr-code for the URL the user enters",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarun Chauhan",
+  "license": "ISC"
+}
